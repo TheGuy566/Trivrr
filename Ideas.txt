@@ -1,0 +1,2 @@
+Users can create their collections of words 
+Words can be classified by themes

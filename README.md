@@ -1,6 +1,8 @@
 # Trivrr
 a trivia game, this app will display a word from one language and 4 options from the language the user need to learn and only one of them is right. Pretty similar to trivia.
 
+This app is aimed to begginers who want to practice the basic words of a language, those who wants to practice words about certain themes, in general, or in case if you are struggling with specific set of words.
+
 This app will use Angular for the front-end and python for the back-end.
 
 ## How to contribute
